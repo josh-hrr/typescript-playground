@@ -20,9 +20,5 @@ Happy coding!
 
 # array methods
 ## filter
-### remove duplicates from an array
+## forEach
 
-export const distinct = (a: number[]): number[] => {
-  const result = a.filter((value, index) => a.indexOf(value) === index);
-  return result;
-}
