@@ -21,3 +21,7 @@ Contributions are welcome! If you have an exercise or challenge that you'd like 
 If you have any questions, feedback, or need support while working on the exercises, feel free to [open an issue](https://github.com/your-username/typescript-code-practice/issues) in this repository.
 
 Happy coding and enjoy practicing TypeScript!
+
+# array methods
+## filter
+### remove duplicates from an array
