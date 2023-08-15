@@ -19,6 +19,6 @@ Contributions are welcome! If you have an exercise or challenge that you'd like 
 Happy coding!
 
 # array methods
-## filter
-## forEach
+1. filter
+2. forEach
 
