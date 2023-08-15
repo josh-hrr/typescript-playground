@@ -14,13 +14,9 @@ Contributions are welcome! If you have an exercise or challenge that you'd like 
 4. Write a clear and concise README for your exercise, detailing the problem statement and any additional information.
 5. Commit your changes: `git commit -m "Add new exercise: Exercise Name"`.
 6. Push to your forked repository: `git push origin feature/add-new-exercise`.
-7. Open a pull request to this repository's `main` branch.
+7. Open a pull request to this repository's `main` branch. 
 
-## Feedback and Support
-
-If you have any questions, feedback, or need support while working on the exercises, feel free to [open an issue](https://github.com/your-username/typescript-code-practice/issues) in this repository.
-
-Happy coding and enjoy practicing TypeScript!
+Happy coding!
 
 # array methods
 ## filter
