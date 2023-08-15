@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Welcome to the TypeScript Code Practice repository! This repository is designed to help you improve your TypeScript coding skills through a series of practice exercises and challenges. Whether you're a beginner looking to learn TypeScript or an experienced developer seeking to refine your skills, this repository has something for you.
+This repository is designed for improving TypeScript coding skills through a series of practice exercises and challenges.
 
 ## Contributing
 
-Contributions are welcome! If you have an exercise or challenge that you'd like to share, please follow these steps:
+Contributions are welcome, if you have an exercise or challenge that you'd like to share, please follow these steps:
 
 1. Fork this repository.
 2. Create a new branch: `git checkout -b feature/add-new-exercise`.
