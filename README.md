@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is designed for improving TypeScript coding skills through a series of practice exercises and challenges.
+This repository is designed to enlist Typescript coding skills through a series of practice exercises and challenges.
 Happy coding!
 
 # array methods
