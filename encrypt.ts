@@ -1,3 +1,6 @@
+//map, slice, join
+//length, charCodeAt, toString
+
 export const encryptThis = (str: string): string => { 
 
   if(str.length === 1){ 
