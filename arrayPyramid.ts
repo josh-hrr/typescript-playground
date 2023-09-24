@@ -11,3 +11,5 @@ export function pyramid(n: number) {
   return result;
   
 }
+
+//2
