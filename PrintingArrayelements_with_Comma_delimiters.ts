@@ -5,3 +5,5 @@ function printArray(array:string[]){
 }
 
 console.log(printArray(myArray));
+
+//reviewed
