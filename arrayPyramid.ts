@@ -13,3 +13,4 @@ export function pyramid(n: number) {
 }
 
 //2
+//reviewed
