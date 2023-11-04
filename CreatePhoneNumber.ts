@@ -29,3 +29,5 @@ for(const i in myArray){
 const result = myNewArray.join('');
 
 console.log(result)
+
+//reviewed, added an optimized solution
