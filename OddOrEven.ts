@@ -5,3 +5,5 @@ export function evenOrOdd(n:number):string {
     return "Odd";
   }
 }
+
+//reviewed
